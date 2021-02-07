@@ -223,11 +223,6 @@
 	icon_state = "techmaint"
 	initial_flooring = /decl/flooring/tiling/new_tile/techmaint
 
-/turf/simulated/floor/tiled/monofloor
-	name = "floor"
-	icon_state = "monofloor"
-	initial_flooring = /decl/flooring/tiling/new_tile/monofloor
-
 /turf/simulated/floor/tiled/techfloor
 	name = "floor"
 	icon = 'icons/turf/flooring/techfloor.dmi'
@@ -266,7 +261,7 @@
 
 /turf/simulated/floor/tiled/stone
 	name = "stone slab floor"
-	icon_state = "stone_full"
+	icon_state = "stone"
 	initial_flooring = /decl/flooring/tiling/stone
 
 /turf/simulated/floor/tiled/techfloor/grid
