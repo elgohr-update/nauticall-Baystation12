@@ -73,7 +73,8 @@
 	icon_state = "techfloor_gray"
 
 /turf/unsimulated/floor/techfloor_grid
-	icon_state = "techfloor_techfloor_grid"
+	icon = 'icons/turf/flooring/techfloor.dmi'
+	icon_state = "techfloor_grid"
 
 // Tiled
 
@@ -82,6 +83,7 @@
 	icon_state = "tiled"
 
 /turf/unsimulated/floor/reinforcedlight
+	icon = 'icons/turf/flooring/tiles.dmi'
 	icon_state = "reinforced_light"
 
 /turf/unsimulated/floor/steeldirty
