@@ -109,7 +109,7 @@
 	economic_power = 7
 	access = list(access_lawyer, access_sec_doors, access_maint_tunnels, access_bridge)
 	minimal_access = list(access_lawyer, access_sec_doors, access_bridge)
-	minimal_player_age = 10
+	minimal_player_age = 7
 	outfit_type = /decl/hierarchy/outfit/job/internal_affairs_agent
 
 /datum/job/lawyer/equip(var/mob/living/carbon/human/H)

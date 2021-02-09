@@ -2,7 +2,7 @@
 	title = "Physician"
 	department = "Medical"
 	department_flag = MED
-	minimal_player_age = 2
+	minimal_player_age = 1
 	minimum_character_age = list(SPECIES_HUMAN = 29)
 	ideal_character_age = 45
 	total_positions = 2
@@ -48,7 +48,7 @@
 	title = "Medical Resident"
 	department = "Medical"
 	department_flag = MED
-	minimal_player_age = 2
+	minimal_player_age = 0
 	minimum_character_age = list(SPECIES_HUMAN = 24)
 	ideal_character_age = 45
 	total_positions = 1
@@ -193,7 +193,7 @@
 	economic_power = 4
 	minimum_character_age = list(SPECIES_HUMAN = 25)
 	ideal_character_age = 30
-	minimal_player_age = 7
+	minimal_player_age = 0
 	outfit_type = /decl/hierarchy/outfit/job/torch/crew/medical/contractor/chemist
 	allowed_branches = list(/datum/mil_branch/civilian)
 	allowed_ranks = list(/datum/mil_rank/civ/contractor)

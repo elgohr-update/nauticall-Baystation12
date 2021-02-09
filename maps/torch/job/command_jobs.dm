@@ -1,7 +1,7 @@
 /datum/job/captain
 	title = "Commanding Officer"
 	supervisors = "the Sol Central Government and the Sol Code of Uniform Justice"
-	minimal_player_age = 14
+	minimal_player_age = 7
 	economic_power = 16
 	minimum_character_age = list(SPECIES_HUMAN = 40)
 	ideal_character_age = 50
@@ -38,7 +38,7 @@
 	supervisors = "the Commanding Officer"
 	department = "Command"
 	department_flag = COM
-	minimal_player_age = 14
+	minimal_player_age = 7
 	economic_power = 14
 	minimum_character_age = list(SPECIES_HUMAN = 35)
 	ideal_character_age = 45
@@ -104,7 +104,7 @@
 	title = "Chief Science Officer"
 	supervisors = "the Commanding Officer"
 	economic_power = 12
-	minimal_player_age = 14
+	minimal_player_age = 7
 	minimum_character_age = list(SPECIES_HUMAN = 35)
 	ideal_character_age = 60
 	outfit_type = /decl/hierarchy/outfit/job/torch/crew/research/cso
@@ -153,7 +153,7 @@
 	title = "Chief Medical Officer"
 	supervisors = "the Commanding Officer and the Executive Officer"
 	economic_power = 14
-	minimal_player_age = 14
+	minimal_player_age = 7
 	minimum_character_age = list(SPECIES_HUMAN = 35)
 	ideal_character_age = 48
 	outfit_type = /decl/hierarchy/outfit/job/torch/crew/command/cmo
@@ -202,7 +202,7 @@
 	economic_power = 12
 	minimum_character_age = list(SPECIES_HUMAN = 27)
 	ideal_character_age = 40
-	minimal_player_age = 14
+	minimal_player_age = 7
 	outfit_type = /decl/hierarchy/outfit/job/torch/crew/command/chief_engineer
 	allowed_branches = list(
 		/datum/mil_branch/expeditionary_corps,
@@ -264,7 +264,7 @@
 	title = "Chief of Security"
 	supervisors = "the Commanding Officer and the Executive Officer"
 	economic_power = 10
-	minimal_player_age = 14
+	minimal_player_age = 7
 	minimum_character_age = list(SPECIES_HUMAN = 25)
 	ideal_character_age = 35
 	outfit_type = /decl/hierarchy/outfit/job/torch/crew/command/cos
@@ -344,7 +344,7 @@
 	spawn_positions = 1
 	supervisors = "the Commanding Officer and the Executive Officer"
 	selection_color = "#2f2f7f"
-	minimal_player_age = 14
+	minimal_player_age = 0
 	economic_power = 11
 	minimum_character_age = list(SPECIES_HUMAN = 35)
 	ideal_character_age = 45
