@@ -4,7 +4,7 @@
 	icon_state = "booknanoregs"
 	author = "Employee Materials"
 	title = "Corporate Regulations"
-	url = "Corporate_Regulations"
+	url = "https://wiki.baystation12.net/index.php?title=Corporate_Regulations"
 
 /obj/item/weapon/book/manual/hydroponics_pod_people
 	name = "The Diona Harvest - From Seed to Market"
