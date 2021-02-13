@@ -96,7 +96,7 @@
 	icon_state = "bookMedical"
 	author = "Medical Department"
 	title = "Medical Diagnostics Manual"
-	url = "Guide_to_Medicine"
+	url = "https://wiki.baystation12.net/index.php?title=Guide_to_Medicine"
 
 /obj/item/weapon/book/manual/medical_diagnostics_manual/New()
 	..()
@@ -144,4 +144,4 @@
 	icon_state = "bookChemistry"
 	author = "Zeng-Hu Pharmaceuticals"
 	title = "Guide to Medicines & Drugs"
-	url = "List_of_Medical_Chemicals"
+	url = "https://wiki.baystation12.net/index.php?title=List_of_Medical_Chemicals"
