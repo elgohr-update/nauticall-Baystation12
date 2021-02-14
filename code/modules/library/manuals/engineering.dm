@@ -3,7 +3,7 @@
 	icon_state ="bookEngineering2"
 	author = "Engineering Encyclopedia"
 	title = "Engineering Textbook"
-	url = "https://wiki.baystation12.net/index.php?title=Engineering"
+	url = "Engineering"
 
 /obj/item/weapon/book/manual/robotics_cyborgs
 	name = "Cyborgs for Dummies"
@@ -292,7 +292,7 @@
 	icon_state ="bookEngineering"
 	author = "Engineering Encyclopedia"		 // Who wrote the thing, can be changed by pen or PC. It is not automatically assigned
 	title = "Repairs and Construction"
-	url = "https://wiki.baystation12.net/index.php?title=Guide_to_Construction"
+	url = "Guide_to_Construction"
 
 /obj/item/weapon/book/manual/engineering_particle_accelerator
 	name = "Particle Accelerator User's Guide"
@@ -346,21 +346,21 @@
 	icon_state = "bookSupermatter"
 	author = "Central Engineering Division"
 	title = "Supermatter Engine Operating Manual"
-	url = "https://wiki.baystation12.net/index.php?title=Supermatter_Engine"
+	url = "Supermatter_Engine"
 
 /obj/item/weapon/book/manual/rust_engine
 	name = "R-UST Operating Manual"
 	icon_state = "bookMagazine"
 	author = "Cindy Crawfish"
 	title = "R-UST Operating Manual"
-	url = "https://wiki.baystation12.net/index.php?title=R-UST"
+	url = "R-UST"
 
 /obj/item/weapon/book/manual/engineering_hacking
 	name = "Hacking"
 	icon_state ="bookHacking"
 	author = "Engineering Encyclopedia"		 // Who wrote the thing, can be changed by pen or PC. It is not automatically assigned
 	title = "Hacking"
-	url = "https://wiki.baystation12.net/index.php?title=Hacking"
+	url = "Hacking"
 
 /obj/item/weapon/book/manual/engineering_singularity_safety
 	name = "Singularity Safety in Special Circumstances"
